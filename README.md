@@ -7,3 +7,4 @@ In this paper, we consider a generalization of the classical planar maximum cove
 ## Citation
 Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with Partial Coverage, Continuous Spatial Demand, and Adjustable Quality of Service" 2020.
 [arXiv:2012.09063.1](https://lnkd.in/geciVDj)
+
