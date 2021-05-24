@@ -5,12 +5,16 @@ In this paper, we consider a generalization of the classical planar maximum cove
 <img src="PMCLP-PCR-QoS.gif" alt="An example of PMCLP-PCR-QoS with 20 rectangular demand zones (represented with black outline) and 3 rectangular service zones for facilities (represented with red)." width="800" height="500">
 
 ## Citation
+If you use this dataset in a publication, a link to or citation of this paper would be appreciated
 Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with Partial Coverage, Continuous Spatial Demand, and Adjustable Quality of Service" 2020.
 [arXiv:2012.09063.1](https://lnkd.in/geciVDj)
 
-<a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
 
-
+@string{btx = "{\textsc{Bib}\TeX}"} 
+Title = btx # "ing" 
+@article{mrx05, 
+auTHor = "Mr. X", 
+Title = {Something Great}, 
+publisher = "nob" # "ody", 
+YEAR = 2005, 
+} 
