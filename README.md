@@ -22,4 +22,4 @@ Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with P
 ```
 
 ## Data
-The data used in this project is provided in the [Data](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data) folder. This folder consistes of four folders for the [10](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/10DZs), [25](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/25DZs), [50](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/50DZs), and [100](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/100DZs) rectangular demand zones.
+The data used in this project is provided in the [Data](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data) folder. This folder consistes of four folders for samples with [10](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/10DZs), [25](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/25DZs), [50](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/50DZs), and [100](https://github.com/Bansal-ORGroup/PMCLP-PCR-QoS/tree/main/Data/100DZs) rectangular demand zones. Each folder contains 10 samples.
