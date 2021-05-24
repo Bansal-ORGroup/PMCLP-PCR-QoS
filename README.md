@@ -19,14 +19,3 @@ Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with P
       primaryClass={math.OC}
 }
 ```
-
-<code>
-@misc{bansal2020planar,
-      title={Planar Maximum Coverage Location Problem with Partial Coverage, Continuous Spatial Demand, and Adjustable Quality of Service}, 
-      author={Manish Bansal and Parshin Shojaee},
-      year={2020},
-      eprint={2012.09063},
-      archivePrefix={arXiv},
-      primaryClass={math.OC}
-}
-<code?
