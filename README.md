@@ -8,3 +8,14 @@ In this paper, we consider a generalization of the classical planar maximum cove
 Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with Partial Coverage, Continuous Spatial Demand, and Adjustable Quality of Service" 2020.
 [arXiv:2012.09063.1](https://lnkd.in/geciVDj)
 
+@article{IsmailFawaz2018deep,
+  Title                    = {Deep learning for time series classification: a review},
+  Author                   = {Ismail Fawaz, Hassan and Forestier, Germain and Weber, Jonathan and Idoumghar, Lhassane and Muller, Pierre-Alain},
+  journal                  = {Data Mining and Knowledge Discovery},
+  Year                     = {2019},
+  volume                   = {33},
+  number                   = {4},
+  pages                    = {917--963},
+}
+
+
