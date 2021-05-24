@@ -10,11 +10,6 @@ Manish Bansal, Parshin Shojaee. "Planar Maximum Coverage Location Problem with P
 [arXiv:2012.09063.1](https://lnkd.in/geciVDj)
 
 
-@string{btx = "{\textsc{Bib}\TeX}"} 
-Title = btx # "ing" 
-@article{mrx05, 
-auTHor = "Mr. X", 
-Title = {Something Great}, 
-publisher = "nob" # "ody", 
-YEAR = 2005, 
-} 
+<code>
+Hello
+<code?
